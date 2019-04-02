@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.data.handle</groupId>
+  <artifactId>ExcelTool</artifactId>
+  <versioning>
+    <release>v-1.1</release>
+    <versions>
+      <version>v-1.1</version>
+    </versions>
+    <lastUpdated>20190402022343</lastUpdated>
+  </versioning>
+</metadata>
